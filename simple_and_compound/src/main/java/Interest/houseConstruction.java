@@ -1,4 +1,4 @@
-package com.epam.clean;
+package Interest;
 import java.util.Arrays;
 
 public class HouseConstruction {
